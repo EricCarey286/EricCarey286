@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eric carey
+- 👋 Hi, I’m Eric Carey
 - ✅ I am currently working as a Software Engineer for Dell Technologies
 - 👀 I’m interested in frontend devleopment, full stack enginnering and web engineering
 - 🌱 I’m currently learning React and the full development life cycyle
-- 📫 You can contact me here on my GitHub page or by emailing me at [eric.w.carey@gmail.com](mailto:eric.w.carey@gmail.com)
+- 📫 You can contact me here on my GitHub page or by emailing me at [ericwcarey@gmail.com](mailto:ericwcarey@gmail.com)
 - Please explore my [LinkedIn page](https://www.linkedin.com/in/ericcarey1/) for a larger picture of my experience and past projects
